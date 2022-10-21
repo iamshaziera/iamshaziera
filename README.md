@@ -1,5 +1,5 @@
 <h2 align="center">
-  Shazblob says hi! 
+  Welcome everyone!
   <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="30">
 </h2>
 
