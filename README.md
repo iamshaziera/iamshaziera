@@ -10,7 +10,7 @@
 
 <!-- Social media -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nur-shaziera-binte-ismail/"><img width="32px" alt="Shaz's LinkedIn" title="LinkedIn" src="https://imgur.com/JSibq6F.png"></a>
+  <a href="https://www.linkedin.com/in/nur-shaziera-binte-ismail/"><img width="32px" alt="Shaz's LinkedIn" title="linkedin" src="https://imgur.com/JSibq6F.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/channel/UChPkn8KYvuHjETKCDDOw4jw"><img width="32px" alt="Shaz's YouTube" title="shaz snippets" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
