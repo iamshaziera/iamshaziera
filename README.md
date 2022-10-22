@@ -23,7 +23,7 @@
   <a href="https://www.youtube.com/channel/UChPkn8KYvuHjETKCDDOw4jw?sub_confirmation=1">
     <img alt="YouTube Subscribers" title="subscribe to shaz snippets" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChPkn8KYvuHjETKCDDOw4jw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/UChPkn8KYvuHjETKCDDOw4jw">
-    <img alt="YouTube Channel Views" title="shaz snippets total views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChPkn8KYvuHjETKCDDOw4jw?label=WATCHES&color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="YouTube Channel Views" title="shaz snippets total views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChPkn8KYvuHjETKCDDOw4jw?label=CHANNEL%20VIEWS&color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/iamshaziera?tab=followers">
     <img alt="GitHub Followers" title="follow me on github" src="https://custom-icon-badges.demolab.com/github/followers/iamshaziera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/iamshaziera">
