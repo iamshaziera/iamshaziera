@@ -1,3 +1,4 @@
+<!-- inspired by https://github.com/DenverCoder1/DenverCoder1-->
 <h3 align="center">
   Welcome everyone!
   <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="30">
@@ -78,5 +79,21 @@
   </a>
   <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Asql">
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+  </a>
+</p>
+
+### Frameworks & libraries 🧰
+<p>
+  <a href="#">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
   </a>
 </p>
