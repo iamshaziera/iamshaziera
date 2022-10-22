@@ -85,7 +85,7 @@
   </a>
 </p>
 
-### Frameworks, platforms & libraries 🧰
+### Frameworks, Platforms & Libraries 🧰
 <p>
   <a href="#">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
@@ -106,7 +106,7 @@
     <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
   </a>
   <a href="#">
-    <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D">
   </a>
 </p>
 
@@ -126,13 +126,10 @@
   </a>
 </p>
 
-### Software & tools 💻
+### Software & Design Tools 💻
 <p>
   <a href="#">
     <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white">
   </a>
   <a href="#">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
@@ -157,7 +154,7 @@
   </a>
 </p>
 
-### Operating Systems & Servers 💻
+### Operating Systems & Servers 🖥️
 <p>
   <a href="#">
     <img alt="Chrome OS" src="https://img.shields.io/badge/Chrome-3d89fc?logo=google%20chrome&logoColor=white">
