@@ -99,4 +99,7 @@
   <a href="#">
     <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
   </a>
+  <a href="#">
+    <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D">
+  </a>
 </p>
