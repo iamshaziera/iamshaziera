@@ -85,16 +85,22 @@
   </a>
 </p>
 
-### Frameworks & libraries 🧰
+### Frameworks, platforms & libraries 🧰
 <p>
   <a href="#">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
   </a>
   <a href="#">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
   </a>
   <a href="#">
     <img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white">
   </a>
   <a href="#">
     <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
@@ -104,8 +110,14 @@
   </a>
 </p>
 
-### Databases 🗄️
+### Databases & Hosting 🗄️
 <p>
+  <a href="#"> 
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+  </a>
+  <a href="#"> 
+    <img alt="CloudFlare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white">
+  </a>
   <a href="#"> 
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
   </a>
@@ -132,9 +144,37 @@
     <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white">
   </a>
   <a href="#">
+    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white">
+  </a>
+  <a href="#">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   </a>
   <a href="#">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </a>
+</p>
+
+### Operating Systems & Servers 💻
+<p>
+  <a href="#">
+    <img alt="Chrome OS" src="https://img.shields.io/badge/Chrome-3d89fc?logo=google%20chrome&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  </a>
+  <a href="#">
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
   </a>
 </p>
