@@ -80,7 +80,7 @@
   <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Asql">
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
   </a>
-  <a>
+  <a href="#">
     <img alt="Windows Terminal" src="https://custom-icon-badges.demolab.com/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white">
   </a>
 </p>
