@@ -1,177 +1,326 @@
-<!-- inspired by https://github.com/DenverCoder1/DenverCoder1-->
+<!-- README inspired by https://github.com/DenverCoder1/DenverCoder1-->
+
 <h3 align="center">
   Welcome everyone!
-  <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="30">
+  <a href="#">
+    <img 
+      src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" 
+      alt="Welcome everyone!"
+      width="30"
+    >
+  </a>
 </h3>
 
-<!-- from https://github.com/DenverCoder1/readme-typing-svg-->
+<!-- Ref: https://github.com/DenverCoder1/readme-typing-svg-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&pause=1000&color=FFD700&background=FFB4FB00&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+developer;Student+by+day%2C+dreamer+by+night" alt="shaz's motto typing SVG" />
+  <a href="#">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&pause=1000&color=FFD700&background=FFB4FB00&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+developer;Student+by+day%2C+dreamer+by+night"
+      alt="Student by day, dreamer by night. Aspiring full-stack developer."
+    >
   </a>
 </p>
 
-<!-- Social media -->
+<!-- Social Media -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nur-shaziera-binte-ismail/">
-    <img width="32px" alt="shaz's linkedin" title="linkedin" src="https://imgur.com/JSibq6F.png">
+    <img 
+      src="https://imgur.com/JSibq6F.png"
+      width="32px" 
+      alt="My LinkedIn" 
+      title="shaz_linkedin" 
+      >
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UChPkn8KYvuHjETKCDDOw4jw">
-    <img width="32px" alt="shaz's youtube" title="shaz snippets" src="https://i.imgur.com/qiXu7b2.png"/>
+  <a href="https://www.youtube.com/@shazsnippets">
+    <img 
+      src="https://i.imgur.com/qiXu7b2.png"
+      width="32px" 
+      alt="My YouTube Channel" 
+      title="shaz_youtube" 
+    >
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!-- Social badges -->
-<!-- from https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- from https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- 
+  Social Badges
+  Ref: https://github.com/DenverCoder1/custom-icon-badges
+  Ref: https://github.com/antonkomarev/github-profile-views-counter 
+-->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UChPkn8KYvuHjETKCDDOw4jw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="subscribe to shaz snippets" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChPkn8KYvuHjETKCDDOw4jw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+  <a href="https://www.youtube.com/@shazsnippets?sub_confirmation=1">
+    <img 
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChPkn8KYvuHjETKCDDOw4jw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+      alt="Subscribe to Me on YouTube" 
+      title="subscribe_youtube" 
+    >
   </a> 
-  <a href="https://www.youtube.com/channel/UChPkn8KYvuHjETKCDDOw4jw">
-    <img alt="youTube channel views" title="shaz snippets total views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChPkn8KYvuHjETKCDDOw4jw?label=CHANNEL%20VIEWS&color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  <a href="https://www.youtube.com/@shazsnippets">
+    <img 
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChPkn8KYvuHjETKCDDOw4jw?label=CHANNEL%20VIEWS&color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"
+      alt="My YouTube Views" 
+      title="total_views_youtube" 
+    >
   </a> 
   <a href="https://github.com/iamshaziera?tab=followers">
-    <img alt="github followers" title="follow me on github" src="https://custom-icon-badges.demolab.com/github/followers/iamshaziera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img 
+      src="https://custom-icon-badges.demolab.com/github/followers/iamshaziera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+      alt="Follow Me on GitHub" 
+      title="follow_github" 
+    >
   </a>
   <a href="https://github.com/iamshaziera">
-    <img alt="github views" title="github profile views" src="https://komarev.com/ghpvc/?username=iamshaziera&color=6b6b6b&style=for-the-badge"/>
+    <img 
+      src="https://komarev.com/ghpvc/?username=iamshaziera&color=6b6b6b&style=for-the-badge"
+      alt="My GitHub Views" 
+      title="total_views_github" 
+    >
   </a>
 </p>
 
 ## Stats Summary 🎆
-<!-- from https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- from https://github.com/anuraghazra/github-readme-stats -->
+<!-- Ref: https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- Ref: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="profile streak stats" alt="iamshaziera's streak" src="https://streak-stats.demolab.com/?user=iamshaziera&theme=monokai-metallian&hide_border=true"/>
+  <a href="#">
+    <img 
+      src="https://streak-stats.demolab.com/?user=iamshaziera&theme=monokai-metallian&hide_border=true"
+      alt="My Streak Stats" 
+    >
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="iamshaziera's github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iamshaziera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <a href="#">
+    <img 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iamshaziera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  
+      alt="My Overall Stats" 
+    >
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="iamshaziera's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaziera&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+  <a href="#">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaziera&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      alt="My Most Used Languages" 
+      height="127px"
+    >
   </a>
 </p>
 
+<!-- Ref: https://github.com/Ileriayo/markdown-badges -->
 ## Setup & Skillset 🛠️
-### Languages 👨‍💻
+### Languages & Frameworks 👨‍💻📜
 <p>
-  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Acss">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Acss&type=code">
+    <img
+      src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" 
+      alt="CSS"
+      title="View my CSS work" 
+    >
   </a>
-  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Ahtml">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Ahtml&type=code">
+    <img
+      src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" 
+      alt="HTML"
+      title="View my HTML work" 
+    >
   </a>
-  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Ajavascript">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Ajavascript&type=code">
+    <img
+      src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white" 
+      alt="JavaScript"
+      title="View my JavaScript work" 
+    >
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Amarkdown&type=code">
+    <img
+      src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"
+      alt="Markdown"
+      title="View my Markdown work" 
+    >
   </a>
-  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Aphp">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Aphp&type=code">
+    <img 
+      src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"
+      alt="PHP" 
+      title="View my PHP work" 
+    >
   </a>
-  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Apython">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Apython&type=code">
+    <img 
+      src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"
+      alt="Python" 
+      title="View my Python work" 
+    >
   </a>
-  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Asql">
-    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Windows Terminal" src="https://custom-icon-badges.demolab.com/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white">
+  <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Asql&type=code">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" 
+      alt="SQL"
+      title="View my SQL work" 
+    >
   </a>
 </p>
 
-### Frameworks, Platforms & Libraries 🧰
 <p>
   <a href="#">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" 
+      alt="Bootstrap"
+    >
   </a>
   <a href="#">
-    <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" 
+      alt="Flask"
+    >
   </a>
   <a href="#">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white"
+      alt="jQuery"
+    >
   </a>
   <a href="#">
-    <img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D">
+    <img
+      src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D" 
+      alt="Vue.js"
+    >
   </a>
 </p>
 
-### Databases & Hosting 🗄️
+### Hosting & Databases 📱🗄️
 <p>
-  <a href="#"> 
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-  </a>
-  <a href="#"> 
-    <img alt="CloudFlare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white">
-  </a>
-  <a href="#"> 
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+  <a href="#">
+    <img 
+      src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"
+      alt="AWS"
+    >
   </a>
   <a href="#">
-    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
+    <img 
+      src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"
+      alt="CloudFlare"
+    >
+  </a>
+  <a href="#">
+    <img 
+      src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"
+      alt="Gunicorn"
+    >
+  </a>
+  <a href="#">
+    <img
+      src="https://img.shields.io/badge/Nginx-%23009639.svg?&logo=nginx&logoColor=white"
+      alt="Nginx"
+    >
+  </a>
+  <a href="#">
+    <img 
+      src="https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white"
+      alt="RabbitMQ"
+    >
   </a>
 </p>
 
-### Software & Design Tools 💻
 <p>
   <a href="#">
-    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" 
+      alt="MySQL"
+    >
   </a>
   <a href="#">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" 
+      alt="SQLite" 
+    >
   </a>
 </p>
 
-### Operating Systems & Servers 🖥️
+### Testing & CI/CD 🧰
 <p>
   <a href="#">
-    <img alt="Chrome OS" src="https://img.shields.io/badge/Chrome-3d89fc?logo=google%20chrome&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" 
+      alt="Pytest"
+    >
   </a>
   <a href="#">
-    <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"
+      alt="Jenkins"
+    >
+  </a>
+</p>
+
+### Software 💻
+<p>
+  <a href="#">
+    <img
+      src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white" 
+      alt="Figma"
+    >
   </a>
   <a href="#">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+    <img 
+      src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"
+      alt="Git"
+    >
   </a>
   <a href="#">
-    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white">
+    <img 
+      src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"
+      alt="GitHub"
+    >
   </a>
   <a href="#">
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white" 
+      alt="Jupyter Notebook"
+    >
   </a>
   <a href="#">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" 
+      alt="Postman"
+    >
+  </a>
+  <a href="#">
+    <img
+      src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" 
+      alt="Visual Studio Code"
+    >
+  </a>
+</p>
+
+### Operating Systems 🖥️
+<p>
+  <a href="#">
+    <img
+      src="https://img.shields.io/badge/Chrome-3d89fc?logo=google%20chrome&logoColor=white"
+      alt="Chrome"
+    >
+  </a>
+  <a href="#">
+    <img
+      src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white" 
+      alt="Kali" 
+    >
+  </a>
+  <a href="#">
+    <img
+      src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" 
+      alt="Linux" 
+    >
+  </a>
+  <a href="#">
+    <img 
+      src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"
+      alt="Ubuntu" 
+    >
+  </a>
+  <a href="#">
+    <img
+      src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" 
+      alt="Windows" 
+    >
   </a>
 </p>
