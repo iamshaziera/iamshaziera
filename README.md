@@ -3,42 +3,25 @@
 <h3 align="center">
   Welcome everyone!
   <a href="#">
-    <img 
-      src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" 
-      alt="Welcome everyone!"
-      width="30"
-    >
+    <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" alt="Welcome everyone!" width="30">
   </a>
 </h3>
 
 <!-- Ref: https://github.com/DenverCoder1/readme-typing-svg-->
 <p align="center">
   <a href="#">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&pause=1000&color=FFD700&background=FFB4FB00&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+developer;Student+by+day%2C+dreamer+by+night"
-      alt="Student by day, dreamer by night. Aspiring full-stack developer."
-    >
+    <img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&pause=1000&color=FFD700&background=FFB4FB00&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+developer;Student+by+day%2C+dreamer+by+night" alt="Student by day, dreamer by night. Aspiring full-stack developer.">
   </a>
 </p>
 
 <!-- Social Media -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nur-shaziera-binte-ismail/">
-    <img 
-      src="https://imgur.com/JSibq6F.png"
-      width="32px" 
-      alt="My LinkedIn" 
-      title="shaz_linkedin" 
-      >
+    <img src="https://imgur.com/JSibq6F.png" alt="My LinkedIn" title="shaz_linkedin" width="32px" >
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@shazsnippets">
-    <img 
-      src="https://i.imgur.com/qiXu7b2.png"
-      width="32px" 
-      alt="My YouTube Channel" 
-      title="shaz_youtube" 
-    >
+    <img src="https://i.imgur.com/qiXu7b2.png" alt="My YouTube Channel" title="shaz_youtube" width="32px" >
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
@@ -50,32 +33,16 @@
 -->
 <p align="center">
   <a href="https://www.youtube.com/@shazsnippets?sub_confirmation=1">
-    <img 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChPkn8KYvuHjETKCDDOw4jw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-      alt="Subscribe to Me on YouTube" 
-      title="subscribe_youtube" 
-    >
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChPkn8KYvuHjETKCDDOw4jw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" alt="Subscribe to Me on YouTube" title="subscribe_youtube">
   </a> 
   <a href="https://www.youtube.com/@shazsnippets">
-    <img 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChPkn8KYvuHjETKCDDOw4jw?label=CHANNEL%20VIEWS&color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"
-      alt="My YouTube Views" 
-      title="total_views_youtube" 
-    >
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChPkn8KYvuHjETKCDDOw4jw?label=CHANNEL%20VIEWS&color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600" alt="My YouTube Views" title="total_views_youtube">
   </a> 
   <a href="https://github.com/iamshaziera?tab=followers">
-    <img 
-      src="https://custom-icon-badges.demolab.com/github/followers/iamshaziera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
-      alt="Follow Me on GitHub" 
-      title="follow_github" 
-    >
+    <img src="https://custom-icon-badges.demolab.com/github/followers/iamshaziera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Follow Me on GitHub" title="follow_github">
   </a>
   <a href="https://github.com/iamshaziera">
-    <img 
-      src="https://komarev.com/ghpvc/?username=iamshaziera&color=6b6b6b&style=for-the-badge"
-      alt="My GitHub Views" 
-      title="total_views_github" 
-    >
+    <img src="https://komarev.com/ghpvc/?username=iamshaziera&color=6b6b6b&style=for-the-badge" alt="My GitHub Views" title="total_views_github">
   </a>
 </p>
 
@@ -84,23 +51,13 @@
 <!-- Ref: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="#">
-    <img 
-      src="https://streak-stats.demolab.com/?user=iamshaziera&theme=monokai-metallian&hide_border=true"
-      alt="My Streak Stats" 
-    >
+    <img src="https://streak-stats.demolab.com/?user=iamshaziera&theme=monokai-metallian&hide_border=true" alt="My Streak Stats">
   </a>
   <a href="#">
-    <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iamshaziera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  
-      alt="My Overall Stats" 
-    >
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iamshaziera&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="My Overall Stats">
   </a>
   <a href="#">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaziera&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-      alt="My Most Used Languages" 
-      height="127px"
-    >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaziera&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="My Most Used Languages" height="127px">
   </a>
 </p>
 
@@ -109,218 +66,118 @@
 ### Languages & Frameworks 👨‍💻📜
 <p>
   <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Acss&type=code">
-    <img
-      src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" 
-      alt="CSS"
-      title="View my CSS work" 
-    >
+    <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" alt="CSS" title="View my CSS work">
   </a>
   <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Ahtml&type=code">
-    <img
-      src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" 
-      alt="HTML"
-      title="View my HTML work" 
-    >
+    <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="HTML" title="View my HTML work">
   </a>
   <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Ajavascript&type=code">
-    <img
-      src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white" 
-      alt="JavaScript"
-      title="View my JavaScript work" 
-    >
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white" alt="JavaScript" title="View my JavaScript work">
   </a>
   <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Amarkdown&type=code">
-    <img
-      src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"
-      alt="Markdown"
-      title="View my Markdown work" 
-    >
+    <img src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" alt="Markdown" title="View my Markdown work">
   </a>
   <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Aphp&type=code">
-    <img 
-      src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"
-      alt="PHP" 
-      title="View my PHP work" 
-    >
+    <img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white" alt="PHP" title="View my PHP work">
   </a>
   <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Apython&type=code">
-    <img 
-      src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"
-      alt="Python" 
-      title="View my Python work" 
-    >
+    <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" alt="Python" title="View my Python work">
   </a>
   <a href="https://github.com/search?q=user%3Aiamshaziera+language%3Asql&type=code">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" 
-      alt="SQL"
-      title="View my SQL work" 
-    >
+    <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" alt="SQL" title="View my SQL work">
   </a>
 </p>
 
 <p>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" 
-      alt="Bootstrap"
-    >
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" 
-      alt="Flask"
-    >
+    <img src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" alt="Flask">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white"
-      alt="jQuery"
-    >
+    <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white" alt="jQuery">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D" 
-      alt="Vue.js"
-    >
+    <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
   </a>
 </p>
 
 ### Hosting & Databases 📱🗄️
 <p>
   <a href="#">
-    <img 
-      src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"
-      alt="AWS"
-    >
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
   <a href="#">
-    <img 
-      src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"
-      alt="CloudFlare"
-    >
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="CloudFlare">
   </a>
   <a href="#">
-    <img 
-      src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"
-      alt="Gunicorn"
-    >
+    <img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white" alt="Gunicorn">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Nginx-%23009639.svg?&logo=nginx&logoColor=white"
-      alt="Nginx"
-    >
+    <img src="https://img.shields.io/badge/Nginx-%23009639.svg?&logo=nginx&logoColor=white" alt="Nginx">
   </a>
   <a href="#">
-    <img 
-      src="https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white"
-      alt="RabbitMQ"
-    >
+    <img src="https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ">
   </a>
 </p>
 
 <p>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" 
-      alt="MySQL"
-    >
+    <img src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" alt="MySQL">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" 
-      alt="SQLite" 
-    >
+    <img src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" alt="SQLite" >
   </a>
 </p>
 
 ### Testing & CI/CD 🧰
 <p>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" 
-      alt="Pytest"
-    >
+    <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" alt="Pytest">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"
-      alt="Jenkins"
-    >
+    <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white" alt="Jenkins">
   </a>
 </p>
 
 ### Software 💻
 <p>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white" 
-      alt="Figma"
-    >
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white" alt="Figma">
   </a>
   <a href="#">
-    <img 
-      src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"
-      alt="Git"
-    >
+    <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git">
   </a>
   <a href="#">
-    <img 
-      src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"
-      alt="GitHub"
-    >
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white" 
-      alt="Jupyter Notebook"
-    >
+    <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white" alt="Jupyter Notebook">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" 
-      alt="Postman"
-    >
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" 
-      alt="Visual Studio Code"
-    >
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   </a>
 </p>
 
 ### Operating Systems 🖥️
 <p>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Chrome-3d89fc?logo=google%20chrome&logoColor=white"
-      alt="Chrome"
-    >
+    <img src="https://img.shields.io/badge/Chrome-3d89fc?logo=google%20chrome&logoColor=white" alt="Chrome">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white" 
-      alt="Kali" 
-    >
+    <img src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white" alt="Kali">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" 
-      alt="Linux" 
-    >
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
   </a>
   <a href="#">
-    <img 
-      src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"
-      alt="Ubuntu" 
-    >
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" 
-      alt="Windows" 
-    >
+    <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
   </a>
 </p>
