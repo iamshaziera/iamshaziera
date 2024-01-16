@@ -10,18 +10,18 @@
 <!-- Ref: https://github.com/DenverCoder1/readme-typing-svg-->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&pause=1000&color=FFD700&background=FFB4FB00&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+developer;Student+by+day%2C+dreamer+by+night" alt="Student by day, dreamer by night. Aspiring full-stack developer.">
+    <img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&pause=1000&color=FFD700&background=FFB4FB00&center=true&vCenter=true&width=435&lines=An+aspiring+developer" alt="An aspiring developer.">
   </a>
 </p>
 
 <!-- Social Media -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nur-shaziera-binte-ismail/">
-    <img src="https://imgur.com/JSibq6F.png" alt="My LinkedIn" title="shaz_linkedin" width="32px" >
+    <img src="https://imgur.com/JSibq6F.png" alt="My LinkedIn" title="Visit my LinkedIn Profile!" width="32px" >
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@shazsnippets">
-    <img src="https://i.imgur.com/qiXu7b2.png" alt="My YouTube Channel" title="shaz_youtube" width="32px" >
+    <img src="https://i.imgur.com/qiXu7b2.png" alt="My YouTube Channel" title="Visit my YouTube channel!" width="32px" >
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
@@ -33,16 +33,13 @@
 -->
 <p align="center">
   <a href="https://www.youtube.com/@shazsnippets?sub_confirmation=1">
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChPkn8KYvuHjETKCDDOw4jw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" alt="Subscribe to Me on YouTube" title="subscribe_youtube">
-  </a> 
-  <a href="https://www.youtube.com/@shazsnippets">
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChPkn8KYvuHjETKCDDOw4jw?label=CHANNEL%20VIEWS&color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600" alt="My YouTube Views" title="total_views_youtube">
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChPkn8KYvuHjETKCDDOw4jw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel">
   </a> 
   <a href="https://github.com/iamshaziera?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/iamshaziera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Follow Me on GitHub" title="follow_github">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/iamshaziera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Follow me on GitHub" title="Follow me on GitHub">
   </a>
   <a href="https://github.com/iamshaziera">
-    <img src="https://komarev.com/ghpvc/?username=iamshaziera&color=6b6b6b&style=for-the-badge" alt="My GitHub Views" title="total_views_github">
+    <img src="https://komarev.com/ghpvc/?username=iamshaziera&color=6b6b6b&style=for-the-badge" alt="My GitHub views" title="My GitHub views!">
   </a>
 </p>
 
